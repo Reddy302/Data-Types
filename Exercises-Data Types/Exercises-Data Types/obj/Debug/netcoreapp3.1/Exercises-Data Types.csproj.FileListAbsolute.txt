@@ -1,0 +1,13 @@
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\bin\Debug\netcoreapp3.1\Exercises-Data Types.exe
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\bin\Debug\netcoreapp3.1\Exercises-Data Types.deps.json
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\bin\Debug\netcoreapp3.1\Exercises-Data Types.runtimeconfig.json
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\bin\Debug\netcoreapp3.1\Exercises-Data Types.runtimeconfig.dev.json
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\bin\Debug\netcoreapp3.1\Exercises-Data Types.dll
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\bin\Debug\netcoreapp3.1\Exercises-Data Types.pdb
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\obj\Debug\netcoreapp3.1\Exercises-Data Types.csprojAssemblyReference.cache
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\obj\Debug\netcoreapp3.1\Exercises-Data Types.AssemblyInfoInputs.cache
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\obj\Debug\netcoreapp3.1\Exercises-Data Types.AssemblyInfo.cs
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\obj\Debug\netcoreapp3.1\Exercises-Data Types.csproj.CoreCompileInputs.cache
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\obj\Debug\netcoreapp3.1\Exercises-Data Types.dll
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\obj\Debug\netcoreapp3.1\Exercises-Data Types.pdb
+C:\Users\MLewis\Desktop\LaunchCode\CoderGirl 2020\1-cSharp Projects\Chapter 1\Exercises\Exercises-Data Types\Exercises-Data Types\obj\Debug\netcoreapp3.1\Exercises-Data Types.genruntimeconfig.cache
